@@ -15,7 +15,7 @@ const Hero = () => {
                 <span className="text-accent">Dom Bigode</span>
               </h1>
               <p className="text-xl text-muted-foreground mb-6">
-                32 anos cortando cabelo e contando história
+                O lugar para grandes homens
               </p>
             </div>
             
