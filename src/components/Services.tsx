@@ -116,7 +116,9 @@ const Services = () => {
               </select>
             </div>
             
-            <Button className="w-full bg-primary text-primary-foreground hover:bg-primary/90">
+            <Button className="w-full bg-primary text-primary-foreground hover:bg-primary/90"
+            onClick={() => window.alert("Agendamento realizado com sucesso!")}
+            >
               Confirmar Agendamento
             </Button>
           </form>
