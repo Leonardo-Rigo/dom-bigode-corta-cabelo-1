@@ -67,7 +67,8 @@ const Quotes = () => {
                   className="flex-1 px-3 py-2 bg-background border border-border rounded-md focus:outline-none focus:ring-2 focus:ring-primary"
                   placeholder="Teu nome (opcional)"
                 />
-                <Button className="bg-primary text-primary-foreground hover:bg-primary/90">
+                <Button className="bg-primary text-primary-foreground hover:bg-primary/90"
+                  onClick={() => window.alert("Sua frase foi enviada com sucesso!")}>
                   Enviar
                 </Button>
               </div>
