@@ -20,7 +20,7 @@ const About = () => {
               
               <p className="text-lg leading-relaxed">
                 Hoje, três décadas depois, a <strong className="text-primary">Barbearia Dom Bigode</strong> 
-                 continua sendo o ponto de encontro dos homens de bom gosto. Aqui você encontra desde 
+                 &nbsp; continua sendo o ponto de encontro dos homens de bom gosto. Aqui você encontra desde 
                 o clássico "corte de sempre" até os estilos mais moderninhos.
               </p>
               
