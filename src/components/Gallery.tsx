@@ -8,7 +8,7 @@ const Gallery = () => {
 
   const modernCuts = [
     { name: "Degradê Diplomático", image: "https://images.unsplash.com/photo-1466721591366-2d5fba72006d" },
-    { name: "Fade do Futuro", image: "https://images.unsplash.com/photo-1721322800607-8c38375eef04" },
+    { name: "Fade do Futuro", image: "https://i.ibb.co/jZ4s267p/Fade-do-futuro.jpg" },
     { name: "Undercut Universitário", image: "https://images.unsplash.com/photo-1582562124811-c09040d0a901" }
   ];
 
