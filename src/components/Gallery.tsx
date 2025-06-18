@@ -3,7 +3,7 @@ const Gallery = () => {
   const classicCuts = [
     { name: "Risca da Responsa", image: "https://images.unsplash.com/photo-1582562124811-c09040d0a901" },
     { name: "Moicano do Vovô", image: "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9" },
-    { name: "Corte Copa do Mundo", image: "https://images.unsplash.com/photo-1472396961693-142e6e269027" }
+    { name: "Corte Copa do Mundo", image: "https://conteudo.imguol.com.br/c/esporte/e3/2020/04/09/ronaldo-na-final-da-copa-do-mundo-de-2002-entre-brasil-e-alemanha-1586448833061_v2_1x1.jpg" }
   ];
 
   const modernCuts = [
