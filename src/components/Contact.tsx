@@ -105,7 +105,7 @@ const Contact = () => {
 
             <div className="aspect-video rounded-lg overflow-hidden border-4 border-primary">
               <iframe
-                src="https://www.google.com/maps/place/Pra%C3%A7a+da+Bandeira+-+Centro,+Erechim+-+RS,+99700-000/data=!4m2!3m1!1s0x94e3138a53171781:0x91c0b68513c98e10?sa=X&ved=1t:242&ictx=111"
+                src="https://maps.app.goo.gl/AsqrdVKwRskcooAt8"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
