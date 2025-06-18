@@ -117,8 +117,13 @@ const Contact = () => {
             </div>
           </div>
         </div>
+                  <div className="text-center text-sm text-muted-foreground italic mt-2 pt-[100px]">
+              <p >Autores do projeto:  Arthur Follador, Gabriel Picoli, Evelyn Fabisiak, Leonardo Rigo    <br /> 2025 &copy;</p>
+              </div>
       </div>
     </section>
+
+    
   );
 };
 
