@@ -105,7 +105,7 @@ const Contact = () => {
 
             <div className="aspect-video rounded-lg overflow-hidden border-4 border-primary">
               <iframe
-                src="https://maps.app.goo.gl/AsqrdVKwRskcooAt8"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3534.663315012779!2d-52.276702023664434!3d-27.634942323768808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e3138a53171781%3A0x91c0b68513c98e10!2sPra%C3%A7a%20da%20Bandeira%20-%20Centro%2C%20Erechim%20-%20RS%2C%2099700-000!5e0!3m2!1spt-BR!2sbr!4v1750270580317!5m2!1spt-BR!2sbr"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
