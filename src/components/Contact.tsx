@@ -21,9 +21,9 @@ const Contact = () => {
               <h3 className="text-xl font-bold text-primary mb-4">📍 Endereço</h3>
               <p className="text-lg">
                 Rua dos Bigodes, 123<br />
-                Bairro Centro Histórico<br />
-                Porto Alegre - RS<br />
-                CEP: 90000-000
+                Bairro Centro <br />
+                Erechim - RS<br />
+                CEP: 99700-010
               </p>
             </div>
 
@@ -32,18 +32,18 @@ const Contact = () => {
               <div className="space-y-3">
                 <p className="flex items-center gap-2">
                   <Phone className="w-4 h-4" />
-                  <span>(51) 3333-4444 (Fixo)</span>
+                  <span>(54) 3333-4444 (Fixo)</span>
                 </p>
                 <p className="flex items-center gap-2">
                   <span>📱</span>
-                  <span>(51) 99999-9999 (WhatsApp)</span>
+                  <span>(54) 99999-9999 (WhatsApp)</span>
                 </p>
               </div>
               
               <div className="flex gap-3 mt-4">
                 <Button 
                   size="sm"
-                  onClick={() => window.open('tel:+555133334444')}
+                  onClick={() => window.open('tel:+555433334444')}
                   className="bg-primary text-primary-foreground hover:bg-primary/90"
                 >
                   📞 Ligar
@@ -51,7 +51,7 @@ const Contact = () => {
                 <Button 
                   size="sm"
                   variant="outline"
-                  onClick={() => window.open('https://wa.me/5551999999999', '_blank')}
+                  onClick={() => window.open('https://wa.me/5554999999999', '_blank')}
                   className="border-primary text-primary hover:bg-primary hover:text-primary-foreground"
                 >
                   💬 WhatsApp
@@ -105,7 +105,7 @@ const Contact = () => {
 
             <div className="aspect-video rounded-lg overflow-hidden border-4 border-primary">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.2!2d-51.2!3d-30.0!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDAzJzMxLjciUyA1McKwMTYnMzIuNyJX!5e0!3m2!1sen!2sbr!4v1234567890"
+                src="https://www.google.com/maps/place/Pra%C3%A7a+da+Bandeira+-+Centro,+Erechim+-+RS,+99700-000/data=!4m2!3m1!1s0x94e3138a53171781:0x91c0b68513c98e10?sa=X&ved=1t:242&ictx=111"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
