@@ -48,7 +48,7 @@ const Hero = () => {
           <div className="relative">
             <div className="aspect-square rounded-lg overflow-hidden border-4 border-primary transform rotate-2 hover:rotate-0 transition-transform duration-300">
               <img 
-                src="https://i.pinimg.com/originals/3e/ae/24/3eae24855b03862435f9430cd3f2e815.jpg" 
+                src="https://img1.wsimg.com/isteam/ip/567ff51a-2768-4c99-8f66-4748dfd3e985/WhatsApp%20Image%202024-04-10%20at%2023.20.01.jpeg" 
                 alt="Interior da Barbearia Dom Bigode"
                 className="w-full h-full object-cover"
               />
