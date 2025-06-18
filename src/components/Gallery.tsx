@@ -1,7 +1,7 @@
 
 const Gallery = () => {
   const classicCuts = [
-    { name: "Risca da Responsa", image: "https://images.unsplash.com/photo-1582562124811-c09040d0a901" },
+    { name: "Risca da Responsa", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj0JmViuuTlHvMRNKXmBDH3V2p2PCv-Ye1gg&s" },
     { name: "Moicano do Vovô", image: "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9" },
     { name: "Corte Copa do Mundo", image: "https://images.unsplash.com/photo-1472396961693-142e6e269027" }
   ];
