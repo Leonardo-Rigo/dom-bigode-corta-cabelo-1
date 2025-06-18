@@ -48,7 +48,7 @@ const Hero = () => {
           <div className="relative">
             <div className="aspect-square rounded-lg overflow-hidden border-4 border-primary transform rotate-2 hover:rotate-0 transition-transform duration-300">
               <img 
-                src="https://images.unsplash.com/photo-1721322800607-8c38375eef04" 
+                src="https://media.istockphoto.com/id/1981992222/pt/foto/barber-shop-or-barbershop-vintage-design-hair-man-salon-empty-with-two-chairs-and-two-mirrors.jpg?s=612x612&w=0&k=20&c=aMWzNuAmMorQPEXLOYHOnpd4OETIlsMu4VDh55RPNzc=" 
                 alt="Interior da Barbearia Dom Bigode"
                 className="w-full h-full object-cover"
               />
