@@ -2,7 +2,7 @@
 const Gallery = () => {
   const classicCuts = [
     { name: "Risca da Responsa", image: "https://i.ibb.co/XrKCtfQ5/698d12d46b077fb714107d40b37746df.jpg" },
-    { name: "Moicano do Vovô", image: "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9" },
+    { name: "Moicano Raiz", image: "https://i.ibb.co/tMskSvPT/corte-de-cabelo-mullet-8.jpg" },
     { name: "Corte Copa do Mundo", image: "https://i.ibb.co/RT11DVFb/ronaldo.jpg" }
   ];
 
