@@ -7,7 +7,7 @@ const Gallery = () => {
   ];
 
   const modernCuts = [
-    { name: "Degradê Diplomático", image: "https://images.unsplash.com/photo-1466721591366-2d5fba72006d" },
+    { name: "Degradê Diplomático", image: "https://i.ibb.co/spVdZ69q/corte-de-cabelo-masculino-degrade-5-1.jpg" },
     { name: "Fade do Futuro", image: "https://i.ibb.co/jZ4s267p/Fade-do-futuro.jpg" },
     { name: "Undercut Universitário", image: "https://images.unsplash.com/photo-1582562124811-c09040d0a901" }
   ];
